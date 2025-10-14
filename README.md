@@ -2,7 +2,7 @@ FECAP - Fundação de Comércio Álvares Penteado
 <p align="center"> <a href="https://www.fecap.br/"><img src="https://www.fecap.br/wp-content/themes/fecap/assets/images/logo-fecap.svg" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0" width="300"></a> </p>
 Painel Contas a Pagar
 👩‍💻 Katiê Prado
-<p align="center"> <img src="./LOGO%20MENOR%20OFICIAL%20VERDE.jpg" alt="Logo Katiê Prado" width="350"> </p>
+<p align="center"> <img src="C:\Users\43347844882\Documents\GitHub\Dashboards-Financeiro" alt="Logo Katiê Prado" width="350"> </p>
 📃 Descrição
 
 O Painel Contas a Pagar é um projeto desenvolvido no contexto acadêmico da FECAP, com o objetivo de criar uma ferramenta visual e interativa para o controle financeiro de contas a pagar.
