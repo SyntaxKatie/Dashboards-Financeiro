@@ -1,15 +1,17 @@
 import React from 'react';
 import Sidebar from '@/components/Sidebar';
 
-
-
 function App() {
   return (
-    <div style={{ display: 'flex' }}>
+    <div style={{ display: 'flex', position: 'relative' }}>
       <Sidebar />
-      <main style={{ padding: '20px', flex: 1 }}>
-        <h1>Bem-vinda, Katiê!</h1>
-        <p>Conteúdo principal do dashboard aqui.</p>
+      <MiniTotalCard valor="R$ 12.500,00" />
+      <main style={{ flex: 1 }}>
+        <DashboardHeader />
+        <div style={{ padding: '20px' }}>
+          <h2>Conteúdo do Dashboard</h2>
+          <p>Aqui virá a tabela de contas a pagar.</p>
+        </div>
       </main>
     </div>
   );
